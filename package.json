@@ -1,0 +1,14 @@
+{
+  "name": "s3-file-download",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:xuqssq/s3-file-download.git",
+  "author": "qian <xuqssq@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node download.mjs"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.850.0"
+  }
+}
