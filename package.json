@@ -6,7 +6,7 @@
   "author": "qian <xuqssq@163.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node download.mjs"
+    "start": "node main.mjs"
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.850.0"
