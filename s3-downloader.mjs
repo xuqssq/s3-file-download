@@ -6,6 +6,7 @@ import {
 import fs from "fs";
 import { pipeline, PassThrough } from "stream";
 import { promisify } from "util";
+import path from "path";
 
 /**
  * 工具函数类 - 格式化相关功能
